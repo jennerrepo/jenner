@@ -1,0 +1,5 @@
+f1 measure of the answer set: 0.422311, precision:0.996043, recall:0.761391, executionTime:2.032123, thinkTime:0.050724, timeElapsed:2.087763 
+f1 measure of the answer set: 0.428571, precision:0.987920, recall:0.754275, executionTime:4.013744, thinkTime:0.050724, timeElapsed:4.069384 
+f1 measure of the answer set: 0.458293, precision:0.920723, recall:0.788639, executionTime:5.954002, thinkTime:0.050724, timeElapsed:6.009642 
+f1 measure of the answer set: 0.475024, precision:0.892800, recall:0.796068, executionTime:7.979815, thinkTime:0.050724, timeElapsed:8.035455 
+f1 measure of the answer set: 0.500460, precision:0.858254, recall:0.808347, executionTime:10.021221, thinkTime:0.050724, timeElapsed:10.076861 

@@ -1,0 +1,2 @@
+Workflow : [<function genderPredicate16 at 0x1256e1350>, <function genderPredicate3 at 0x1256ac7d0>, <function genderPredicate10 at 0x1256e1050>] 
+Time taken: 5.875219, f1 measure of the answer set: 0.859503, precision:0.961427, recall:0.776741
