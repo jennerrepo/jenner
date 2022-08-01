@@ -27,5 +27,15 @@ unzip Data.zip
 
 ### Running the code
 
-	•	In order to execute Q4 of the paper, please execute the  python file: QueryExecutionTweet.py.
-python  QueryExecutionTweet.py (by default this code uses TweetDataSmall.p file which is a 4 MB file). The bigger dataset of TweetDataBig.p can also be used with this script. The data used in the experiments had the size of 10.5 GB. We could not upload the complete dataset due to the size restriction of file uploads. 
+In order to execute Q4-Q7 of the paper which were on Tweet dataset, please run the  python script neamed `QueryExecutionTweet.py`.
+```
+python QueryExecutionTweet.py 
+```
+Note: by default this code uses TweetDataSmall.p file which is a 4 MB file). The bigger dataset of TweetDataBig.p can also be used with this script. The data used in the experiments had the size of 10.5 GB. We could not upload the complete dataset to get bigger dataset contact us at dhruajg@uci.edu or peeyushg@uci.edu. 
+
+
+In order to execute Q8-Q12 of the paper which were on Image dataset, please run the  python script neamed `QueryExecutionMultiPie.py`.
+```
+python QueryExecutionMultiPie.py 
+```
+
