@@ -34,7 +34,7 @@ python QueryExecutionTweet.py
 Note: by default this code uses TweetDataSmall.p file which is a 4 MB file. The bigger dataset of TweetDataBig.p can also be used with this script. The data used in the experiments had the size of 10.5 GB. We could not upload the complete dataset in this repo due github space limitations. To get the bigger dataset contact us at dhruajg@uci.edu or peeyushg@uci.edu. 
 
 
-In order to execute Q8-Q12 of the paper which were on Image dataset, please run the  python script neamed `QueryExecutionMultiPie.py`.
+In order to execute Q8-Q12 of the paper which were on Image dataset, please run the  python script named `QueryExecutionMultiPie.py`.
 ```
 python QueryExecutionMultiPie.py 
 ```
