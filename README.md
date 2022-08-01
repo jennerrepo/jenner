@@ -19,11 +19,11 @@ unzip Data.zip
 
 ### About the code 
 
-  - The code consists of multiple trained classifiers as the enrichment functions (added to the “Classifiers”directory), 
+- The code consists of multiple trained classifiers as the enrichment functions (added to the “Classifiers”directory), 
   and several Python scripts containing the source code(added to the base directory).
-	- Inside the “Classifiers” directory, we have added two sub-directories of “Image” and “Tweet” each containing the enrichment 
+- Inside the “Classifiers” directory, we have added two sub-directories of “Image” and “Tweet” each containing the enrichment 
   functions for the Image and Tweet dataset respectively. 
-	- The dataset is stored as a pickle file (compressed manner) in the “Data” directory.
+- The dataset is stored as a pickle file (compressed manner) in the “Data” directory.
 
 ### Running the code
 
